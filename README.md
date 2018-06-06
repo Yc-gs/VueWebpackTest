@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-login
 
 > A Vue.js project
@@ -16,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# VueWebpackTest
+mockLogin
+>>>>>>> 1271ba912ab4cfafa5e73d5b654fcd74e4627596
